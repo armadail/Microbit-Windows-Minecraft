@@ -7,3 +7,6 @@ Tutorial on how to start coding with minecraft on windows. Additional tutorial t
 - the mod is only available on versions 1.8/1.8.8/1.8.9/1.9 
 
 ![tlauncher](/images/tlauncher.png)
+
+
+![bitio logo](bitio.png)
