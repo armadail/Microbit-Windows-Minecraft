@@ -18,18 +18,18 @@ Tutorial on how to start coding with minecraft on windows. Additional tutorial t
 - this includes 
     - the minecraft-pi mod
     - python installed in the correct directory so you can run python scripts in game
-    - c) sample scripts, good for a hello world test
+    - sample scripts, good for a hello world test
                 
 ![tlauncher](/images/tlauncher.PNG)
 
-if there are no errors, run minecraft through the tlauncher type */py donut* and a donut made from glass and water should appear around you
+if there are no errors, run minecraft through the tlauncher type **/py donut** and a donut made from glass and water should appear around you
 
 ![tlauncher](/images/tlauncher.PNG)
 
-### 3) Navigate into your working directory press *Windows-R*, type *%appdata%\.minecraft*, press enter. 
+### 3) Navigate into your working directory press **Windows-R**, type **%appdata%\.minecraft**, press enter. 
 
-- go to the *mcpipy* folder and you will see the sample code that has come along with RaspberryJamMod-Installer.exe 
-- this is where all your programs will go if you want to run them inside minecraft by typing */py myprogram*
+- go to the **mcpipy** folder and you will see the sample code that has come along with RaspberryJamMod-Installer.exe 
+- this is where all your programs will go if you want to run them inside minecraft by typing **/py myprogram**
 
 ### 4) Open VScode, it is free to download through https://code.visualstudio.com/
 
@@ -41,7 +41,7 @@ if there are no errors, run minecraft through the tlauncher type */py donut* and
 
 ![tlauncher](/images/tlauncher.PNG)
 
-### 5) If minecraft is open in the background you can simply press *F5* in VScode to run your program.
+### 5) If minecraft is open in the background you can simply press **F5** in VScode to run your program.
 
 ![tlauncher](/images/tlauncher.PNG)
 
