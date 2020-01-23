@@ -6,4 +6,4 @@ Tutorial on how to start coding with minecraft on windows. Additional tutorial t
 - To code on minecraft you require the mcpi mod (minecraft-pi is orignially developed to run minecraft on a rasberry-pi) 
 - the mod is only available on versions 1.8/1.8.8/1.8.9/1.9 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/tlauncher.png)
