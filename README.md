@@ -26,8 +26,9 @@ if there are no errors, run minecraft through the tlauncher type **/py donut** a
 
 ![tlauncher](/images/tlauncher.PNG)
 
-### 3) Navigate into your working directory press **Windows-R**, type **%appdata%\.minecraft**, press enter. 
+### 3) Navigate into your working directory 
 
+- press **Windows-R**, type **%appdata%\.minecraft**, press enter.      
 - go to the **mcpipy** folder and you will see the sample code that has come along with RaspberryJamMod-Installer.exe 
 - this is where all your programs will go if you want to run them inside minecraft by typing **/py myprogram**
 
@@ -45,7 +46,8 @@ if there are no errors, run minecraft through the tlauncher type **/py donut** a
 
 ![tlauncher](/images/tlauncher.PNG)
 
-Now you're ready to start coding with minecraft. A more indept tutorial is avaiable: https://www.instructables.com/id/Python-coding-for-Minecraft/
+Now you're ready to start coding with minecraft. A more indept tutorial is avalable at: 
+https://www.instructables.com/id/Python-coding-for-Minecraft/
 
 ## references:
 Arpruss- Windows MCPI mod guide
