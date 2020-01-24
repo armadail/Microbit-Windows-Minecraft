@@ -83,7 +83,7 @@ Now you're ready to start programming the microbit with VScode.
 - You will need to re-configure the microbit
 - Your character should move based on the way you tilt the microbit
 
-Now you're ready to start coding with minecraft and a microbit. Some projects are available at:
+Now you're ready to start coding with minecraft and a microbit. Some sample projects are available at:
 http://warksjammy.blogspot.com/2017/07/bitio-blogs-in-one-place.html?view=timeslide%20114
 
 
