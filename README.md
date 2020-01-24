@@ -36,7 +36,7 @@ if there are no errors, run minecraft through the tlauncher type **/py donut** a
 
 - Type out the follow code, it simply prints out "Hello World!" to the MC chat and places a diamond block in front of you
 
-![myfirstprogram](/images/mcfirstprogram.PNG)
+![mcvscode](/images/mcvscode.PNG)
 
 - save it under the proper directory
 
@@ -44,7 +44,7 @@ if there are no errors, run minecraft through the tlauncher type **/py donut** a
 
 ### 5) If minecraft is open in the background you can simply press **F5** in VScode to run your program.
 
-![mcvscode](/images/mcvscode.PNG)
+![myfirstprogram](/images/mcfirstprogram.PNG)
 
 Now you're ready to start coding with minecraft. A more indept tutorial is avalable at: 
 https://www.instructables.com/id/Python-coding-for-Minecraft/
