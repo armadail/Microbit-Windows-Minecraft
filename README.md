@@ -20,11 +20,11 @@ Tutorial on how to start coding with minecraft on windows. Additional tutorial t
     - python installed in the correct directory so you can run python scripts in game
     - sample scripts, good for a hello world test
                 
-![tlauncher](/images/tlauncher.PNG)
+![mcpimod](/images/mcpimod.PNG)
 
 if there are no errors, run minecraft through the tlauncher type **/py donut** and a donut made from glass and water should appear around you
 
-![tlauncher](/images/tlauncher.PNG)
+![mcdonut](/images/mcdonut.PNG)
 
 ### 3) Navigate into your working directory 
 
@@ -36,18 +36,65 @@ if there are no errors, run minecraft through the tlauncher type **/py donut** a
 
 - Type out the follow code, it simply prints out "Hello World!" to the MC chat and places a diamond block in front of you
 
-![tlauncher](/images/tlauncher.PNG)
+![myfirstprogram](/images/mcfirstprogram.PNG)
 
 - save it under the proper directory
 
-![tlauncher](/images/tlauncher.PNG)
+![mcsavefolder](/images/mcsavefolder.PNG)
 
 ### 5) If minecraft is open in the background you can simply press **F5** in VScode to run your program.
 
-![tlauncher](/images/tlauncher.PNG)
+![mcvscode](/images/mcvscode.PNG)
 
 Now you're ready to start coding with minecraft. A more indept tutorial is avalable at: 
 https://www.instructables.com/id/Python-coding-for-Minecraft/
+
+
+
+## Part2) Bitio and controlling minecraft with microbit 
+## Part 2.1) Running microbit scripts with VScode
+### 1) Download the bitio repository: https://github.com/whaleygeek/bitio
+
+![bitiogithub](/images/bitiogithub.PNG)
+
+- you may need an external software such as 7-zip to unzip the folder. https://www.7-zip.org/
+
+### 2) Plug in your microbit then drag and drop the bitio.hex file to your microbit drive
+
+### 3) Open button.py file in the src folder with VScode and run the program (F5)
+
+- follow the instructions to connect to microbit for the first time.
+
+![bitiobutton](/images/bitiobutton.PNG)
+
+Now you're ready to start programming the microbit with VScode.
+
+## Part 2.1) Controlling minecraft with microbit
+
+### 1) Copy the microbit folder, try folder, and tilt_mc.py file to your minecraft code directory \.minecraft\mcpipy
+
+- press **Windows-R**, type **%appdata%\.minecraft**, press enter.      
+- go to the **mcpipy** folder
+
+![movefiles](/images/movefiles.PNG)
+
+### 2) Launch minecraft server and run tilt_mc.py through visual studio
+
+- You will need to re-configure the microbit
+- Your character should move based on the way you tilt the microbit
+
+Now you're ready to start coding with minecraft and a microbit. Some projects are available at:
+http://warksjammy.blogspot.com/2017/07/bitio-blogs-in-one-place.html?view=timeslide%20114
+
+
+
+
+
+
+
+
+
+
 
 ## references:
 Arpruss- Windows MCPI mod guide
